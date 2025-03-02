@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aslmov
-- 👀 I’m interested in (devOps comprehension)
-- 🌱 I’m currently learning (Something)
-- 💞️ I’m looking to collaborate on (nothing special for the moment)
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning Python mastering
+- 💞️ I’m looking to collaborate on data oriented project
 - 📫 How to reach me (morguen.dev@gmail.com)
 
 <!---
